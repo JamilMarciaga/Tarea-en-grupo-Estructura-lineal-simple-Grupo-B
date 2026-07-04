@@ -1,6 +1,6 @@
 # Tarea en grupo - Estructura Lineal Simple - Grupo B
 
-<<<<<<< HEAD
+
 ## Integrantes del Grupo B
 =======
 ##  Integrantes del Grupo B
@@ -13,7 +13,7 @@
 | 3 | Alexis Lopez | Colaborador | Parte 3: Metas personales |
 | 4 | Esequiel Gonzalez | Colaborador | Parte 4: Final de la historia |
 
-<<<<<<< HEAD
+
 ## Descripcion
 
 Programa en Python que solicita datos al usuario y crea una historia personalizada utilizando unicamente variables, entradas del usuario (input) y salidas a la consola (print).
