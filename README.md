@@ -9,7 +9,7 @@
 | 3 | **Alexis Lopez** | Colaborador | Parte 3: Metas personales |
 | 4 | **Esequiel González** | Colaborador | Parte 4: Final de la historia |
 
-## 📝 Descripción
+##  Descripción
 Programa en Python que solicita datos al usuario y crea una historia personalizada utilizando únicamente variables, entradas del usuario (input) y salidas a la consola (print).
 
 ##  Estructura del proyecto
