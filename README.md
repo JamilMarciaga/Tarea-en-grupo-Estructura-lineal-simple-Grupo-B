@@ -4,7 +4,6 @@
 ## Integrantes del Grupo B
 =======
 ##  Integrantes del Grupo B
->>>>>>> 2d3c99c0fbbbd7acc670a03d275dc901966ae5da
 
 | # | Integrante | Rol | Parte |
 |---|------------|-----|-------|
