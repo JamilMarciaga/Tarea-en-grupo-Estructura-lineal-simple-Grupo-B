@@ -4,7 +4,10 @@
 ## Integrantes del Grupo B
 =======
 ##  Integrantes del Grupo B
+<<<<<<< HEAD
 
+=======
+>>>>>>> 679f47c6c27135e05bd48062e70937e2551443ba
 
 | # | Integrante | Rol | Parte |
 |---|------------|-----|-------|
@@ -13,7 +16,7 @@
 | 3 | Alexis Lopez | Colaborador | Parte 3: Metas personales |
 | 4 | Esequiel Gonzalez | Colaborador | Parte 4: Final de la historia |
 
-<<<<<<< HEAD
+
 ## Descripcion
 
 Programa en Python que solicita datos al usuario y crea una historia personalizada utilizando unicamente variables, entradas del usuario (input) y salidas a la consola (print).
@@ -55,4 +58,7 @@ Finalmente, Carlos logro su sueno y es exitoso.
 =======
 ##  Descripción
 Programa en Python que solicita datos al usuario y crea una historia personalizada utilizando únicamente variables, entradas del usuario (input) y salidas a la consola (print).
+<<<<<<< HEAD
 
+=======
+>>>>>>> 679f47c6c27135e05bd48062e70937e2551443ba
