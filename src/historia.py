@@ -9,3 +9,7 @@ edad = input("Ingresa tu edad: ")
 ciudad = input("Ingresa tu ciudad de residencia: ")
 
 print("¡Hola, " + nombre + "! Tienes " + edad + " años y vives en " + ciudad + ".")
+
+# PARTE 2 - CREADA POR: Gilberto
+estudio = input("¿Qué estudias o en qué trabajas?: ")
+print(nombre + " estudia o trabaja en " + estudio + ".")
