@@ -1,13 +1,6 @@
 # Tarea en grupo - Estructura Lineal Simple - Grupo B
 
-
 ## Integrantes del Grupo B
-=======
-##  Integrantes del Grupo B
-<<<<<<< HEAD
-
-=======
->>>>>>> 679f47c6c27135e05bd48062e70937e2551443ba
 
 | # | Integrante | Rol | Parte |
 |---|------------|-----|-------|
@@ -15,7 +8,6 @@
 | 2 | Gilberto Cano | Colaborador | Parte 2: Estudios o trabajo |
 | 3 | Alexis Lopez | Colaborador | Parte 3: Metas personales |
 | 4 | Esequiel Gonzalez | Colaborador | Parte 4: Final de la historia |
-
 
 ## Descripcion
 
@@ -55,10 +47,3 @@ Finalmente, Carlos logro su sueno y es exitoso.
 - Mostrar saludo personalizado
 - Cada integrante agrego informacion
 - La salida final es una historia completa
-=======
-##  Descripción
-Programa en Python que solicita datos al usuario y crea una historia personalizada utilizando únicamente variables, entradas del usuario (input) y salidas a la consola (print).
-<<<<<<< HEAD
-
-=======
->>>>>>> 679f47c6c27135e05bd48062e70937e2551443ba
