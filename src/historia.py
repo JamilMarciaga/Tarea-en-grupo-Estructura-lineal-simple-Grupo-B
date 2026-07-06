@@ -13,3 +13,7 @@ print("¡Hola, " + nombre + "! Tienes " + edad + " años y vives en " + ciudad +
 # PARTE 2 - CREADA POR: Gilberto
 estudio = input("¿Qué estudias o en qué trabajas?: ")
 print(nombre + " estudia o trabaja en " + estudio + ".")
+
+# PARTE 4 - CREADA POR: Esequiel
+final = input("¿Qué ocurrió al final de la historia?: ")
+print("Finalmente, " + nombre + " " + final + ".")
