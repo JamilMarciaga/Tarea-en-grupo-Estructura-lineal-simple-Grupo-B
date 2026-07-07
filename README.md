@@ -35,8 +35,9 @@ Ingresa tu ciudad de residencia: Panama
 Hola, Carlos! Tienes 22 anos y vives en Panama.
 Que estudias o en que trabajas?: Estudio Ingenieria en Sistemas
 Carlos estudia o trabaja en Estudio Ingenieria en Sistemas.
-Cual es su meta principal?: Crear una startup tecnologica
-Su meta es Crear una startup tecnologica.
+¿Cuál es tu meta personal principal?: Crear una startup tecnologica
+¿Qué te motiva a alcanzar esa meta?: ayudar a su familia
+Carlos tiene como meta personal Crear una startup tecnologica. Su motivación para alcanzar esta meta es ayudar a su familia.
 Que ocurrio al final de la historia?: logro su sueno y es exitoso
 Finalmente, Carlos logro su sueno y es exitoso.
 
